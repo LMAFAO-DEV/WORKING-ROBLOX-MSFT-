@@ -2,7 +2,7 @@ TO INSTALL RUN Installer.py
                                                                                                                                                                                                             
 BYFRON IS OUT, BUT IM BYPASSING IT LOL
 
-taper V3
+er V3
 Discord (real exploits here): https://discord.gg/nAEHrW9EF
 
 Making basic bytecode conversion available again to every learning developer
