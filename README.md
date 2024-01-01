@@ -1,7 +1,9 @@
+TO INSTALL RUN Installer.py
+
 BYFRON IS OUT, BUT IM BYPASSING IT LOL
 
 TaaprWare V3
-Discord (real exploits here): https://discord.gg/nAEHrW9EF9
+Discord (real exploits here): https://discord.gg/nAEHrW9EF
 
 Making basic bytecode conversion available again to every learning developer
 
@@ -18,4 +20,6 @@ Get the global table using a lua state offset
 Create the string which should be the name of the function using string offsets
 Write to the global table using table offsets, setting the key at the string you created to the closure you created
 Implementing this in this repo would double or triple the amount of code, would be harder to maintain, and would be very confusing for beginners.
+
+
 
