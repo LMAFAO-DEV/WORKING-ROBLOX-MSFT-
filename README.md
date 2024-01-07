@@ -1,5 +1,6 @@
 TO INSTALL RUN Installer.py
-THEN RUN TMP3_EXE
+THEN RUN Taperware_v3.exe
+
                                                                                                                                                                                                             
 BYFRON IS OUT, BUT IM BYPASSING IT LOL
 
